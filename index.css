@@ -3,3 +3,8 @@ p{
     color: white;
     background-color: blue;
 }
+img{
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+}
